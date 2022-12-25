@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="58.88003">
+    <testcase classname="Validate the login details" name="user login with diff credentials" time="17.483291">
+        <system-out><![CDATA[Given User can launch the url...............................................passed
+When User enter "malathi" "1243454".........................................passed
+And User click the login button.............................................passed
+Then Validate the user login................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate the login details" name="user login with diff credentials 2" time="19.099435">
+        <system-out><![CDATA[Given User can launch the url...............................................passed
+When User enter "gobinath" "56789678".......................................passed
+And User click the login button.............................................passed
+Then Validate the user login................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate the login details" name="user login with diff credentials 3" time="22.297304">
+        <system-out><![CDATA[Given User can launch the url...............................................passed
+When User enter "sudha" "765678"............................................passed
+And User click the login button.............................................passed
+Then Validate the user login................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
